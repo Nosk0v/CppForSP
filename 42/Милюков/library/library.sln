@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "onedll", "onedll\onedll.vcxproj", "{FE27A557-67F8-4450-8510-AB646F6D881A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "onelib", "onelib\onelib.vcxproj", "{84483890-B0A1-4D89-B13F-DD53D870DAC6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testdll", "testdll\testdll.vcxproj", "{D0424509-934B-49C0-ACD2-6B7D94C7F258}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testlib", "testlib\testlib.vcxproj", "{FE4BF12C-0649-4CFB-B4F7-17739980B77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE27A557-67F8-4450-8510-AB646F6D881A}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE27A557-67F8-4450-8510-AB646F6D881A}.Debug|x86.Build.0 = Debug|Win32
+		{84483890-B0A1-4D89-B13F-DD53D870DAC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{84483890-B0A1-4D89-B13F-DD53D870DAC6}.Debug|x86.Build.0 = Debug|Win32
+		{D0424509-934B-49C0-ACD2-6B7D94C7F258}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0424509-934B-49C0-ACD2-6B7D94C7F258}.Debug|x86.Build.0 = Debug|Win32
+		{FE4BF12C-0649-4CFB-B4F7-17739980B77F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE4BF12C-0649-4CFB-B4F7-17739980B77F}.Debug|x86.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
