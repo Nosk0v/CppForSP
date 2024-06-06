@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clipboard", "clipboard\clipboard.vcxproj", "{C01CF4D9-08FC-4353-801E-99EA89D29945}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clipwapp", "clipwapp\clipwapp.vcxproj", "{8221A76E-717E-45D0-9EFC-3FF72898ADC4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copydata", "copydata\copydata.vcxproj", "{FF5E00FB-ACEC-44D0-A3A1-AA932D7904BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ddeapp", "ddeapp\ddeapp.vcxproj", "{BB212B3A-11E0-477F-98BF-2C3174A99117}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mailslot", "mailslot\mailslot.vcxproj", "{6630DC83-8F20-48E7-8F9F-6F33CAEDDF36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pipes", "pipes\pipes.vcxproj", "{3437D8F0-D824-4EA9-B100-149AB0B1EF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01CF4D9-08FC-4353-801E-99EA89D29945}.Debug|x86.ActiveCfg = Debug|Win32
+		{C01CF4D9-08FC-4353-801E-99EA89D29945}.Debug|x86.Build.0 = Debug|Win32
+		{8221A76E-717E-45D0-9EFC-3FF72898ADC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8221A76E-717E-45D0-9EFC-3FF72898ADC4}.Debug|x86.Build.0 = Debug|Win32
+		{FF5E00FB-ACEC-44D0-A3A1-AA932D7904BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF5E00FB-ACEC-44D0-A3A1-AA932D7904BC}.Debug|x86.Build.0 = Debug|Win32
+		{BB212B3A-11E0-477F-98BF-2C3174A99117}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB212B3A-11E0-477F-98BF-2C3174A99117}.Debug|x86.Build.0 = Debug|Win32
+		{6630DC83-8F20-48E7-8F9F-6F33CAEDDF36}.Debug|x86.ActiveCfg = Debug|Win32
+		{6630DC83-8F20-48E7-8F9F-6F33CAEDDF36}.Debug|x86.Build.0 = Debug|Win32
+		{3437D8F0-D824-4EA9-B100-149AB0B1EF2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3437D8F0-D824-4EA9-B100-149AB0B1EF2F}.Debug|x86.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11AE648-5C2C-4109-B772-466F88CB02F6}
+	EndGlobalSection
+EndGlobal
